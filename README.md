@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edwardtheiron
-- 👀 I’m interested in Trains
+- 👀 I’m interested in Gamedev, Trains
 - 🌱 I’m currently learning LUA, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me edwardtheiron@gmail.com
