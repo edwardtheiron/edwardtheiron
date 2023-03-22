@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edwardtheiron
 - 👀 I’m interested in gamedev and trains
-- 🌱 I’m currently learning Python. Worked with LUA and C# (not simultaneously)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Unity. Worked with LUA, C#, Python, ChatGPT
+- 💞️ I’m looking to collaborate on VL10k loco and Oryol - Tula route for Train Simulator Classic
 - 📫 How to reach me edwardtheiron@gmail.com
 
 <!---
